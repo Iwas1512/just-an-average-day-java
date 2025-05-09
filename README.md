@@ -1,6 +1,6 @@
 # Just an Average Day - Java Template
 
-## Instructions
+## Instructions:
 
 You can find the instructions for this lab [here](https://morethanequations.com/Computer-Science/Labs/Just-an-Average-Day).
 
